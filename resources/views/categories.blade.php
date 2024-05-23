@@ -1,4 +1,4 @@
-@extends('layouts.app')
+@extends('layouts.cate_layout')
 
 @section('content')
 
@@ -9,7 +9,7 @@
                 <div class="col-lg-12">
                     <div class="breadcrumb__links">
                         <a href="./index.html"><i class="fa fa-home"></i> Home</a>
-                        <a href="./categories.html">Categories</a>
+                        <a href="./categories">Categories</a>
                         <span>Romance</span>
                     </div>
                 </div>

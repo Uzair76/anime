@@ -1,5 +1,5 @@
-  <!-- Header Section Begin -->
-  <header class="header">
+<!-- Header Section Begin -->
+<header class="header">
         <div class="container">
             <div class="row">
                 <div class="col-lg-2">
@@ -13,15 +13,19 @@
                     <div class="header__nav">
                         <nav class="header__menu mobile-menu">
                             <ul>
-                                <li class="active"><a href="/home">Homepage</a></li>
+                                <li class="active"><a href="/">Homepage</a></li>
                                 <li><a href="./categories">Categories <span class="arrow_carrot-down"></span></a>
                                     <ul class="dropdown">
-                                        <li><a href="/categories">Romance</a></li>
-                                        <li><a href="/categories">Adventure </a></li>
-                                        <li><a href="/categories">Magic</a></li>
-                                        <li><a href="/categories">Fantasy</a></li>
+                                        <li><a href="/categories">Categories</a></li>
+                                        <li><a href="/anime-details">Anime Details</a></li>
+                                        <li><a href="/anime-watching">Anime Watching</a></li>
+                                        <li><a href="/blog-details">Blog Details</a></li>
+                                        <li><a href="/signup">Sign Up</a></li>
+                                        <li><a href="/login">Login</a></li>
                                     </ul>
                                 </li>
+                                <li><a href="./blog.html">Our Blog</a></li>
+                                <li><a href="#">Contacts</a></li>
                             </ul>
                         </nav>
                     </div>
